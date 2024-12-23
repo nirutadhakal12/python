@@ -1,0 +1,6 @@
+Name, Age, Total Marks
+ram, 13, 187
+shyam, 10, 197
+hari, 11, 170
+abc, 12, 205
+xyz, 14, 202
